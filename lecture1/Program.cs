@@ -16,7 +16,7 @@ namespace lecture1
             int[] mas = new int[n];
             for(int a=0;a<n;a++)
             {
-                Console.WriteLine("введите  число");
+                Console.WriteLine("введите число");
                mas[a] = int.Parse(Console.ReadLine());
                
             }
